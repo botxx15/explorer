@@ -1,0 +1,23 @@
+{
+    "chain_name": "0g-chain",
+    "registry_name": "0g-chain",
+    "api": [
+        {"provider": "BlockHub", "address": "https://og-testnet-api.blockhub.id"}
+    ],
+    "rpc": [
+        {"provider": "BlockHub", "address": "https://og-testnet-rpc.blockhub.id"}
+    ],
+    "sdk_version": "0.47.6",
+    "keplr_features": ["eth-address-gen", "eth-key-sign"],
+    "coin_type": "459",
+    "min_tx_fee": "800",
+    "addr_prefix": "0g-chain",
+    "logo": "/logos/0g-chain.png",
+    "assets": [{
+        "base": "ua0gi",
+        "symbol": "A0GI",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/0g-chain.png"
+    }]
+}

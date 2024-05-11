@@ -11,10 +11,10 @@
       By&nbsp;
       <a
         class="link link-primary no-underline"
-        href="https://ping.pub"
+        href="https://blockhub.super.site"
         target="_blank"
         rel="noopener noreferrer"
-        >Ping.pub</a
+        >BlockHub</a
       >
     </div>
     <div

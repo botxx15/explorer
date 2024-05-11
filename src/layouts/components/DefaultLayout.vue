@@ -69,7 +69,7 @@ function selected(route: any, nav: NavLink) {
         <RouterLink to="/" class="flex items-center">
           <img class="w-10 h-10" src="../../assets/logo.svg" />
           <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
-            CryptoNodeID
+            BlockHub
           </h1>
         </RouterLink>
         <div
@@ -230,18 +230,20 @@ function selected(route: any, nav: NavLink) {
           </div>
         </a>
         <a
-          href="https://wardenprotocol.org"
+          href="https://0g.ai/"
           target="_blank"
+          rel="noopener noreferrer"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
           <img
-            src="/logos/warden.png"
+            src="/logos/0g-chain.png"
+            alt="0g Chain Logo"
             class="w-6 h-6 rounded-full mr-3"
           />
           <div
             class="text-sm capitalize flex-1 text-gray-600 dark:text-gray-200"
           >
-            Warden Protocol
+            0g Chain
           </div>
         </a>
 
@@ -261,15 +263,15 @@ function selected(route: any, nav: NavLink) {
 
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">{{ $t('module.links') }}</div>
         <a
-          href="https://t.me/CryptoNodeID"
+          href="https://twitter.com/blockchainshub"
           target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
-          <Icon icon="mdi:telegram" class="text-xl mr-2" />
+          <Icon icon="mdi:twitter" class="text-xl mr-2" />
           <div
             class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
           >
-            Telegram
+            Twitter
           </div>
         </a>
         <a
