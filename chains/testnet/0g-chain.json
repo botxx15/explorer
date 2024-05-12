@@ -1,6 +1,6 @@
 {
-    "chain_name": "0g-chain",
-    "registry_name": "0g-chain",
+    "chain_name": "0gchain",
+    "registry_name": "0gchain",
     "api": [
         {"provider": "BlockHub", "address": "https://og-testnet-api.blockhub.id"}
     ],
@@ -11,7 +11,7 @@
     "keplr_features": ["eth-address-gen", "eth-key-sign"],
     "coin_type": "459",
     "min_tx_fee": "800",
-    "addr_prefix": "0g-chain",
+    "addr_prefix": "0gchain",
     "logo": "/logos/0g-chain.png",
     "assets": [{
         "base": "ua0gi",
