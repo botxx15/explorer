@@ -16,7 +16,7 @@
     "assets": [{
         "base": "ua0gi",
         "symbol": "A0GI",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "", 
         "logo": "/logos/0g-chain.png"
     }]
