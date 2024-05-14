@@ -25,7 +25,7 @@ const cache = JSON.parse(localStorage.getItem('avatars') || '{}');
 const avatars = ref(cache || {});
 const latest = ref({} as Record<string, number>);
 const yesterday = ref({} as Record<string, number>);
-const tab = ref('featured');
+const tab = ref('active');
 const unbondList = ref([] as Validator[]);
 const slashing = ref({} as SlashingParam)
 
