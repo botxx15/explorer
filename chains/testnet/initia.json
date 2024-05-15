@@ -2,10 +2,10 @@
     "chain_name": "Initia",
     "registry_name": "Initia",
     "api": [
-        {"provider": "Foundation", "address": "https://api.initiation-1.initia.xyz"}
+        {"provider": "BlockHub", "address": "https://initia-testnet-api.blockhub.id"}
     ],
     "rpc": [
-        {"provider": "Foundation", "address": "https://rpc.initiation-1.initia.xyz"}
+        {"provider": "BlockHub", "address": "https://initia-testnet-rpc.blockhub.id"}
     ],
     "sdk_version": "0.47.6",
     "keplr_features": ["eth-address-gen", "eth-key-sign"],
