@@ -215,21 +215,6 @@ function selected(route: any, nav: NavLink) {
           {{ $t('module.sponsors') }}
         </div>
         <a
-          href="https://xfi.foundation"
-          target="_blank"
-          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
-        >
-          <img
-            src="/logos/crossfi.png"
-            class="w-6 h-6 rounded-full mr-3"
-          />
-          <div
-            class="text-sm capitalize flex-1 text-gray-600 dark:text-gray-200"
-          >
-            CrossFi
-          </div>
-        </a>
-        <a
           href="https://0g.ai/"
           target="_blank"
           rel="noopener noreferrer"
