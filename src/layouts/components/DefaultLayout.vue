@@ -228,10 +228,26 @@ function selected(route: any, nav: NavLink) {
           <div
             class="text-sm capitalize flex-1 text-gray-600 dark:text-gray-200"
           >
-            0g Chain
+            0G
           </div>
         </a>
-
+        <a
+          href="https://www.vultr.com/?ref=9617844-8H"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
+        >
+          <img
+            src="/logos/vultr.png"
+            alt="Vultr Logo"
+            class="w-6 h-6 rounded-full mr-3"
+          />
+          <div
+            class="text-sm capitalize flex-1 text-gray-600 dark:text-gray-200"
+          >
+            Vultr
+          </div>
+        </a>
           <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">
             Tools
           </div>
